@@ -4,7 +4,7 @@
 
 - Default Port: 8000
 
-## Application Demo:
+## Application:
 ![](https://hrcdn.net/s3_pub/istreet-assets/qADXyZlRiPYYkqsQ62EKdQ/transactions-list.gif)
 
 ## Functionality Requirements
